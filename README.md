@@ -1,1 +1,1 @@
-# The sparks Foundation Project -1 (Prediction Using Supervised ML)
+# Spark-Foundation-internship-project-1-
